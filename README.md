@@ -21,9 +21,9 @@ A responsive and visually engaging Coca-Cola-themed landing page featuring a sli
 2. Open `index.html` in your browser.
 3. Resize the browser window to test mobile responsiveness.
 
-## 👨‍💻 Author
+## 👨‍💻 Website Developer
 **Muhammad Shayan Shahid**  
-📍 Java & Front-End Learner  
+📍 Front-End Developer   
 📧 msshahid23052006@gmail.com  
 
-
+Feel free to collaborate...
